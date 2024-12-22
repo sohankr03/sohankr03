@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sohankr03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XnT-jvJDUfvq7CN8W-5wPgxZOu1RwJva/view?usp=drive_link](https://drive.google.com/file/d/1XnT-jvJDUfvq7CN8W-5wPgxZOu1RwJva/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XnT-jvJDUfvq7CN8W-5wPgxZOu1RwJva/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
