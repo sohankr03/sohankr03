@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohankr03" alt="sohankr03" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sohankr03" target="blank"><img src="https://img.shields.io/twitter/follow/sohankr03?logo=twitter&style=for-the-badge" alt="sohankr03" /></a> </p>
-
 - Currently Working on **Movie Recomendor System**
 
 - 🌱 I’m currently learning **Data Analysis**
